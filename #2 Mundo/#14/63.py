@@ -1,0 +1,11 @@
+posicao= int(input('Digite um numero: '))
+seq=0
+a=1
+b=0
+aux=0
+while posicao != seq:
+    print(aux, end=' ')
+    aux= a+b
+    a=b
+    b= aux
+    seq +=1

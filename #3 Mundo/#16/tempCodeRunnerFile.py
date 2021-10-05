@@ -1,0 +1,1 @@
+t(input('Digite um numero: '), int(input('Digite um numero: '))
